@@ -71,7 +71,7 @@ with center:
     }
 
     .stButton > button {
-        background: linear-gradient(135deg, #bae6fd, #bae6fd);
+        background: linear-gradient(135deg, #FFB800, #FFE100);
         color: #1A1A1A;
         border-radius: 14px;
         padding: 14px 70px;
@@ -164,7 +164,7 @@ with center:
 
         st.markdown("<h1>🫀 Early Cardiovascular Risk Predictor</h1>", unsafe_allow_html=True)
         st.markdown(
-            "<p style='text-align:center;font-size:18px;'>Proactive Detection of Heart Disease Risk</p>",
+            "<p style='text-align:center;font-size:18px;'>Predictive Analytics for Cardiovascular Wellness</p>",
             unsafe_allow_html=True
         )
 
